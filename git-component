@@ -1,0 +1,2 @@
+If we make any changes in the remote repository then after gitpull it will reflect in the local repository. To make gitpull with one command,in the terminal we  can use git clone.
+To add file in the Git Bash commandline, we must start with gitinit to start git. Then by git status we can found the file present in the directory.
